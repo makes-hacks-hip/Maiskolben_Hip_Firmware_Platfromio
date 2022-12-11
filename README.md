@@ -1,3 +1,7 @@
+Der ursprüngliche Code stammt von https://github.com/ArduinoHannover/Maiskolben.
+Dieser Code wurde angepasst für unsere Variante: https://github.com/makes-hacks-hip/Maiskolben_Hip_Firmware
+In diesem Repo ist der Code aus https://github.com/makes-hacks-hip/Maiskolben_Hip_Firmware als Platformio Projekt.
+
 # Maiskolben
 
 Code für die Lötstation "Maiskolben"
