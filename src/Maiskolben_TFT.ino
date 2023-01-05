@@ -1,8 +1,8 @@
 #include <SPI.h>
+#include <TFT_ILI9163C.h>
 #include <PID_v1.h>
 #include <EEPROM.h>
 #include <TimerOne.h>
-#include <TFT_ILI9163C.h>
 #include "definitions.h"
 
 /*
